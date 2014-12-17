@@ -1,0 +1,9 @@
+D:\ASP.Net\CitizenInfoApp\CitizenInfoApp\bin\Debug\CitizenInfoApp.exe.config
+D:\ASP.Net\CitizenInfoApp\CitizenInfoApp\bin\Debug\CitizenInfoApp.exe
+D:\ASP.Net\CitizenInfoApp\CitizenInfoApp\bin\Debug\CitizenInfoApp.pdb
+D:\ASP.Net\CitizenInfoApp\CitizenInfoApp\obj\Debug\CitizenInfoApp.csprojResolveAssemblyReference.cache
+D:\ASP.Net\CitizenInfoApp\CitizenInfoApp\obj\Debug\CitizenInfoApp.Form1.resources
+D:\ASP.Net\CitizenInfoApp\CitizenInfoApp\obj\Debug\CitizenInfoApp.Properties.Resources.resources
+D:\ASP.Net\CitizenInfoApp\CitizenInfoApp\obj\Debug\CitizenInfoApp.csproj.GenerateResource.Cache
+D:\ASP.Net\CitizenInfoApp\CitizenInfoApp\obj\Debug\CitizenInfoApp.exe
+D:\ASP.Net\CitizenInfoApp\CitizenInfoApp\obj\Debug\CitizenInfoApp.pdb
